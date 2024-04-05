@@ -1,0 +1,43 @@
+## Weekly Individual Project Update Report
+### Group number: L2-G2
+### Student name: Riya Arora
+### Week: 10 (March 20 - March 26)
+___
+1. **How many hours did you spend on the project this week? (0-10)**
+
+     10 hours
+
+2. **Rough breakdown:**
+ 
+     Group meeting (1 hour) 
+
+     Set up Sense Hat script to display on RPI based on mood score for unit test demo (3 hours)
+
+     Worked on PixelPet iOS application to make it look nicer (2 hours)
+
+     Debug RPI that had mutable mapping error (2 hours)
+
+4. ***What did you accomplish this week?*** 
+
+     This week we I worked on getting my demo set up for the unit test demo during the lab, I had to create a script for the sensehate to
+     display the moodscore on the sense hat based on a simple calculation using the other enteries in the firebase. I also had to ensure that my 
+     iOS app was reading and working properly by reading and displaying values from the firebase database. I also had some issues with my RPI that 
+     I still have not resolved and need to ask a TA for help.
+
+6. ***How do you feel about your progress?*** 
+
+     The progress is going good, we need to make sure we get our project concurrently working for the demo
+
+7. ***What are you planning to do next week***?
+
+     Work on putting the full project together
+
+8. ***Is anything blocking you that you need from others?***
+   
+     Nope
+
+
+
+
+
+   
